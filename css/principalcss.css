@@ -1,0 +1,68 @@
+#imgofertas{
+    background-color: red;
+}
+#primerafila{
+    background-color: gray;
+    color: white;
+    border: 0px;
+}
+img .pequeños{
+    border-radius : 50%;
+    background-color: black;
+    border: 10px;
+}
+#buscar{
+    margin-top : 10px;
+    margin-left: 250px;
+}
+td{
+    padding: 0px;
+    border : 0px;
+    border-spacing: 0px;
+}
+
+tr{
+    border-spacing: 0px;
+    
+}
+#b1,#b2,#b3,#b4,#b5,#b6,#b7{
+    background: white;
+}
+
+#slides{
+    width: 1000px;
+    margin-left: 100px;
+}
+#slidesjs-container{
+    margin-bottom: 100px;
+
+}
+#slidesjs-control{
+   z-index: 50; 
+}
+
+p{
+    font-family: arial,helvetica;
+    color: #336699;
+    padding: 50px; 
+}
+#buscar{
+    background: url("img/imgbuscar.png");
+    border: 1px solid #BFBFBF;
+    color:#BFBFBF;
+    padding: 5px 5px 5px 25px;
+    width: 230px ;
+background-position: 4px -21px;
+}
+#imagenderecha{
+margin-left: 1100px;
+margin-top: -500px;
+}
+#imagenizq{
+margin-left: 1100px;
+margin-top: -200px;
+}
+#cont1{
+    margin-left: 500px;
+    width: 80%;
+}
